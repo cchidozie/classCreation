@@ -9,7 +9,7 @@ namespace classCreation
         {
             banking_app account = new banking_app();
 
-            account.CheckBalance("dozie", "5000");
+            account.CheckBalance("dozie", "500");
 
             Console.ReadLine();
 
